@@ -1,0 +1,15 @@
+{
+  "id": "dangbei-dds-candidate",
+  "name": "Dangbei Rocky / DDS protocol candidate",
+  "status": "experimental-explicit-opt-in",
+  "match": {},
+  "nativePackage": "com.dangbei.lerad.rocky",
+  "nativeService": "com.dangbei.lerad.rocky/com.dangbei.rocky.RockyService",
+  "nativeHandler": "com.dangbei.leard.leradlauncher/com.dangbei.voice_business.VoiceCenterActivity",
+  "voiceDownAction": "com.dangbei.voicekey.down",
+  "voiceUpAction": "com.dangbei.voicekey.up",
+  "busPort": 50001,
+  "voiceUri": "db_voice://db_launcher/control",
+  "audioRoute": "none",
+  "notes": "Package presence and a bus connection do not prove remote microphone compatibility. Apply requires --experimental-profile and a physical remote test. No Haqu audio routing or hard-coded Binder transaction is used."
+}

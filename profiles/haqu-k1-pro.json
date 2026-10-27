@@ -1,0 +1,15 @@
+{
+  "id": "haqu-k1-pro",
+  "name": "Haqu K1 Pro / 哈趣 K1 Pro (Android 9)",
+  "status": "validated-baseline",
+  "match": {"sdk": "28", "device": "marconi", "model": "HQK1Pro"},
+  "nativePackage": "com.dangbei.lerad.rocky",
+  "nativeService": "com.dangbei.lerad.rocky/com.dangbei.rocky.RockyService",
+  "nativeHandler": "com.dangbei.leard.leradlauncher/com.dangbei.voice_business.VoiceCenterActivity",
+  "voiceDownAction": "com.dangbei.voicekey.down",
+  "voiceUpAction": "com.dangbei.voicekey.up",
+  "busPort": 50001,
+  "voiceUri": "db_voice://db_launcher/control",
+  "audioRoute": "haqu-ble-input",
+  "notes": "The device-specific 2.1 baseline was physically tested for dictation and movie search. The public installer is separately tested with a fake ADB harness and read-only device detection."
+}
