@@ -1,0 +1,19 @@
+{
+  "name": "Nintendo desktop and screensaver collection",
+  "intervalMinutes": 5,
+  "excluded": "The previously removed museum wallpaper is not included.",
+  "rights": "Third-party images. Copyright remains with Nintendo and the respective artists. Not covered by this repository's MIT license; attribution does not grant redistribution or commercial rights. Consult the linked source terms.",
+  "images": [
+    {"file":"01.jpg","title":"动森 · 无人岛广场","source":"https://www.nintendo.com/en-gb/News/2020/May/Decorate-your-desktop-with-these-Nintendo-wallpapers--1781128.html","credit":"Nintendo"},
+    {"file":"03.jpg","title":"动森 · 狸克欢迎","source":"https://www.nintendo.com/en-gb/News/2020/May/Decorate-your-desktop-with-these-Nintendo-wallpapers--1781128.html","credit":"Nintendo"},
+    {"file":"04.jpg","title":"马里奥赛车 · 烟花夜赛","source":"https://www.nintendo.com/en-gb/News/2020/May/Decorate-your-desktop-with-these-Nintendo-wallpapers--1781128.html","credit":"Nintendo"},
+    {"file":"05.jpg","title":"马里奥奥德赛 · 沙之国","source":"https://www.nintendo.com/en-gb/News/2020/May/Decorate-your-desktop-with-these-Nintendo-wallpapers--1781128.html","credit":"Nintendo"},
+    {"file":"06.jpg","title":"马里奥奥德赛 · 料理国","source":"https://www.nintendo.com/en-gb/News/2020/May/Decorate-your-desktop-with-these-Nintendo-wallpapers--1781128.html","credit":"Nintendo"},
+    {"file":"07.jpg","title":"碧姬公主 · 表演时刻","source":"https://play.nintendo.com/media/wallpapers/princess-peach-showtime-downloadable-wallpaper/","credit":"Nintendo"},
+    {"file":"08.jpg","title":"罗莎塔与琪琪","source":"https://wall.alphacoders.com/big.php?i=1033349","credit":"Nintendo characters; uploader/artwork credit: consult source"},
+    {"file":"09.jpg","title":"黛西公主","source":"https://wall.alphacoders.com/big.php?i=929422","credit":"DangerZone2486; Nintendo characters"},
+    {"file":"10.jpg","title":"耀西 · 手工世界","source":"https://wall.alphacoders.com/big.php?i=1366892","credit":"Nintendo characters; uploader/artwork credit: consult source"},
+    {"file":"11.jpg","title":"西施慧 · 薄荷绿","source":"https://catwithmonocle.com/news/2020/02/03/animal-crossing-new-horizons-isabelle-wallpaper/","credit":"Cat with Monocle; Nintendo characters"},
+    {"file":"12.jpg","title":"西施慧 · 庆典","source":"https://wall.alphacoders.com/big.php?i=1366952","credit":"Nintendo characters; uploader/artwork credit: consult source"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "wallpaper": true,
+  "wallpaper_rotation_minutes": 5,
+  "wallpaper_order": "sequential",
+  "wallpaper_dim": 30,
+  "clock_wallpaper": true,
+  "clock_wallpaper_dim": 20,
+  "home_idle_clock_minutes": 5,
+  "clock_glow": false
+}
